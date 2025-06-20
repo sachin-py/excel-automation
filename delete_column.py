@@ -1,5 +1,5 @@
 """
-🗑️ Delete a Column from an Excel Sheet using openpyxl
+Delete a Column from an Excel Sheet using openpyxl
 
 This script deletes column 2 (i.e., column B) from an existing Excel file (`sample.xlsx`)  
 and prints the number of columns before and after deletion.

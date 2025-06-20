@@ -1,5 +1,5 @@
 """
-📄 Excel Font Color and Background Fill Styling
+Excel Font Color and Background Fill Styling
 
 This script opens an existing Excel file (`font_color.xlsx`) and applies:
 - Font colors (red, blue)

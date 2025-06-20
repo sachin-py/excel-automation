@@ -1,5 +1,5 @@
 """
-✅ Filter Excel Data using pandas and write result with openpyxl
+Filter Excel Data using pandas and write result with openpyxl
 
 This script:
 1. Reads an Excel file (`pass_fail.xlsx`) using pandas.

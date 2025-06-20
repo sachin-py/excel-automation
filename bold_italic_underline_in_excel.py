@@ -1,5 +1,5 @@
 """
-📄 Excel Font Styling in a Row
+Excel Font Styling in a Row
 
 This script opens an existing Excel file (`test_font.xlsx`) and applies different 
 font styles to cells in the **first row** of the first worksheet:

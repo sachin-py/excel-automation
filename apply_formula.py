@@ -1,5 +1,5 @@
 """
-🧮 Add Excel Formula using openpyxl
+Add Excel Formula using openpyxl
 
 This script opens an Excel file (`number.xlsx`) and adds a formula to calculate the sum  
 of cells B1 through B8 using `=SUM(B1:B8)`. It places the formula in cell B11  
